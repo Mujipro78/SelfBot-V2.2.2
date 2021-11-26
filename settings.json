@@ -22,7 +22,7 @@
      "autorespon" : true,
      "autotyping" : false,
      "autobio" : false,
-     "chatBot" : false,
+     "chatBot" : true,
      "autoread" : true,
      "katalogMenu": false,
      "troliMenu": false,
